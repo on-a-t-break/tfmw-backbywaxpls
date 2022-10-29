@@ -78,11 +78,11 @@ By following the steps, using this contract or using the open source code provid
 
 
 Socials:
-Dapp @ <https://tfmw.gg>
-Twitter @ <https://twitter.com/TFMW_gg>
-Discord @ <https://discord.gg/terraformers>
+- Dapp @ <https://tfmw.gg>
+- Twitter @ <https://twitter.com/TFMW_gg>
+- Discord @ <https://discord.gg/terraformers>
 
 
 Contacts via Discord:
-on a t break @ on a t break#6196
-TheLonely @ TheLonely#4812
+- `on a t break` @ on a t break#6196
+- `TheLonely` @ TheLonely#4812
