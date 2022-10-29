@@ -6,16 +6,17 @@ The purpose of this smart contract is to allow the autonomous Wax backing of NFT
 
 
 Requirements:
-- EOS based blockchains smart contract compiler.
-- The wallet that you will deploy this smart contract under will need to be added as a Notify Account.
+- EOS based smart contract compiler.
+- The wallet that you will deploy this smart contract under will need to be added as a `Notify Account` your collection.
 - A reserve of WAXP tokens sent to the `atomicassets` contract from the wallet that has deployed this contract.
-- Around 400kb of RAM to upload the contract, as well as an additional 128 bytes of RAM per template that you wish to be backed
-- Around 25 WAXP CPU & 5 WAXP NET in staking
+- Around `400kb of RAM` to upload the contract, as well as an additional `128 bytes of RAM per template` that you wish to be backed
+- Around `25 WAXP of CPU` & `5 WAXP of NET` in staking
 
 
 Limitations:
 - This contract handles the autonomous backing of NFTs, however, it does not handle the WAXP tokens that need to be deposited into the `atomicassets` contract for it to back assets with.
 - Failure to have the required WAXP tokens (as designated by the template on your deployed contract) will result in a failure to mint said asset, until either the template is removed from the contract list or WAXP tokens have been provided.
+- This contract is unable to back assets for collections which do not have the wallet that this contract is deployed under as a `Notify Account`.
 
 
 The following instructions have been provided for demonstrative purposes on the testnet.
@@ -74,7 +75,7 @@ Action Info:
 
 Disclaimer: 
 - This smart contract has been developed & open sourced in good faith. 
-- It has been used to back over 500k WAXP for assets in the `terraformers` collection, as can be seen here <https://waxdetective.io/network/transfers?accounts=backbywaxpls&time_min=1635910141397&time_max=1667014141397&excludedAccounts=&excludedCategories=system>.
+- It has been used to back over 500k WAXP for assets under the `terraformers` collection, as can be seen here <https://waxdetective.io/network/transfers?accounts=backbywaxpls&time_min=1635910141397&time_max=1667014141397&excludedAccounts=&excludedCategories=system>.
 - By following the steps, using this contract or using the open source code provided, you are waiving all liability from us & you are acknowledging that you are proceeding at your own risk. 
 
 
