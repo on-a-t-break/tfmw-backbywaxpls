@@ -1,4 +1,4 @@
-The `backbywaxpls` smart contract was commissioned by `on a t break` & developed by `TheLonely` for Terraformers, Many Worlds, A.K.A, TFMW, on the Wax Blockchain. 
+The `backbywaxpls` smart contract was commissioned by `on a t break` & developed by `TheLonely` for Terraformers, Many Worlds, A.K.A, TFMW, under the `terraformers` collection on the Wax Blockchain. 
 
 The purpose of this smart contract is to allow the autonomous Wax backing of NFTs.
 
@@ -74,7 +74,7 @@ Action Info:
 
 Disclaimer: 
 - This smart contract has been developed & open sourced in good faith. 
-- It has been used to back over 500k WAXP for assets in the "terraformers" collection, as can be seen here <https://waxdetective.io/network/transfers?accounts=backbywaxpls&time_min=1635910141397&time_max=1667014141397&excludedAccounts=&excludedCategories=system>.
+- It has been used to back over 500k WAXP for assets in the `terraformers` collection, as can be seen here <https://waxdetective.io/network/transfers?accounts=backbywaxpls&time_min=1635910141397&time_max=1667014141397&excludedAccounts=&excludedCategories=system>.
 - By following the steps, using this contract or using the open source code provided, you are waiving all liability from us & you are acknowledging that you are proceeding at your own risk. 
 
 
