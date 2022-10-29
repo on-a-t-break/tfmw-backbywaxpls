@@ -74,7 +74,7 @@ Action: `claimtokens`, allows users to let the contract back their asset (if all
 
 
 Disclaimer: This smart contract has been developed & open sourced in good faith. It has been used to back over 500k WAXP for assets in the "terraformers" collection.
-By following the steps, using this contract or using the open source code provided, you are waiving all liability from us & you are acknowledging that you are proceeding at your own risk. We do not take any responsibility for any harm.
+By following the steps, using this contract or using the open source code provided, you are waiving all liability from us & you are acknowledging that you are proceeding at your own risk. 
 
 
 Socials:
