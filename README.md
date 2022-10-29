@@ -6,7 +6,7 @@ Backbywaxpls works by setting up individual templates that will trigger a notify
 
 
 Requirements:
--> EOS based blockchains smart contract compiler.
+- EOS based blockchains smart contract compiler.
 -> The wallet that you will deploy this smart contract under will need to be added as a Notify Account.
 -> A reserve of WAXP tokens sent to the "atomicassets" contract from the wallet that has deployed this contract.
 -> Around 400kb of RAM to upload the contract, as well as an additional 128 bytes of RAM per template that you wish to be backed
