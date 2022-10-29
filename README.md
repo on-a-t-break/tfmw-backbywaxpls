@@ -64,13 +64,12 @@ To withdraw: <https://wax-test.bloks.io/account/atomicassets?loadContract=true&t
 
 
 Action Info:
-
-Action: `init`, call it once/first time after uploading contract
-Action: `destruct`, will remove the config from the contract (eg for config/contract upgrades)
-Action: `maintenance`, toggle maintenance on/off, by default maintenance is on. Maintenance = no tokens will be backed, asset minting will be OK
-Action: `settemplate`, update or set the config for a template id; use full token precision eg `1.12341234 WAX`
-Action: `rmtemplate`, remove a template
-Action: `claimtokens`, allows users to let the contract back their asset (if allowed) with tokens
+- Action: `init`, call it once/first time after uploading contract
+- Action: `destruct`, will remove the config from the contract (eg for config/contract upgrades)
+- Action: `maintenance`, toggle maintenance on/off, by default maintenance is on. Maintenance = no tokens will be backed, asset minting will be OK
+- Action: `settemplate`, update or set the config for a template id; use full token precision eg `1.12341234 WAX`
+- Action: `rmtemplate`, remove a template
+- Action: `claimtokens`, allows users to let the contract back their asset (if allowed) with tokens
 
 
 Disclaimer: This smart contract has been developed & open sourced in good faith. It has been used to back over 500k WAXP for assets in the "terraformers" collection.
