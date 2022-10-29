@@ -1,4 +1,4 @@
-The backbywaxpls smart contract was commissioned by "on a t break" & developed by "TheLonely" for Terraformers, Many Worlds, A.K.A, TFMW, on the Wax Blockchain. 
+The backbywaxpls smart contract was commissioned by `on a t break` & developed by `TheLonely` for `Terraformers, Many Worlds`, A.K.A, `TFMW`, on the Wax Blockchain. 
 
 The purpose of this smart contract is to allow the autonomous Wax backing of NFTs.
 
